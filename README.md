@@ -25,7 +25,7 @@ https://wokwi.com/projects/478975479868533761
 | GND       | GND       |
 | DATA/SDA  | GPIO 15   |
 
-![Wiring diagram](Screenshots/wiring_diagram.png)
+   ![Wiring diagram](Screenshots/wiring%20diagram.png)
 
 ## Screenshots
 
