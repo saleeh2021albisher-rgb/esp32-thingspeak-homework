@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33984375/README.md)
+[README (1).md](https://github.com/user-attachments/files/33984639/README.1.md)
 # ESP32 → ThingSpeak: Temperature & Humidity Monitor
 
 ## Full name + University ID
@@ -25,12 +25,12 @@ https://wokwi.com/projects/478975479868533761
 | GND       | GND       |
 | DATA/SDA  | GPIO 15   |
 
-![Wiring diagram](screenshots/wiring_diagram.png)
+![Wiring diagram](Screenshots/wiring_diagram.png)
 
 ## Screenshots
 
 ### ThingSpeak channel page
-![ThingSpeak channel page](screenshots/ThingSpeak%20channel%20page.png)
+![ThingSpeak channel page](Screenshots/ThingSpeak%20channel%20page.png)
 
 ### Live temperature & humidity graphs
-![Temperature & Humidity read data](screenshots/Temperature%20%26%20Humidity%20read%20data.png)
+![Temperature & Humidity read data](Screenshots/Temperature%20%26%20Humidity%20read%20data.png)
